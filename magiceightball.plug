@@ -1,0 +1,7 @@
+[Core]
+Name = MagicEightBall
+Module = magiceightball
+
+[Documentation]
+Description = An Err plugin for answering yes-no questions
+
